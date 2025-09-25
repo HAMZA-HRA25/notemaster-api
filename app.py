@@ -1,3 +1,4 @@
+# Hamza asked me to write this
 from flask import Flask
 from views.notes import notes_bp
 
